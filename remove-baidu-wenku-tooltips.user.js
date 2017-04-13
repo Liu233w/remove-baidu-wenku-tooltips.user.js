@@ -6,7 +6,8 @@
 // @author      Liu233w
 //
 // @include     http://wenku.baidu.com/view/*
-// @version     1.0
+// @include     https://wenku.baidu.com/view/*
+// @version     1.1
 // @grant       none
 //
 // @updateURL   https://raw.githubusercontent.com/Liu233w/remove-baidu-wenku-tooltips.user.js/master/remove-baidu-wenku-tooltips.user.js
